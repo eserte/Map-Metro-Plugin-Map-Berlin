@@ -39,6 +39,10 @@ Map::Metro::Plugin::Map::Berlin - Map::Metro map for Berlin
  
     use Map::Metro;
     my $graph = Map::Metro->new('Berlin')->parse;
+
+From commandline:
+
+    map-metro.pl route Berlin "Rathaus Spandau" "Rudow"
  
 =head1 DESCRIPTION
  
