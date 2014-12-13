@@ -26,7 +26,7 @@ WriteMakefile(
         'Path::Tiny'              => 0,
         'Types::Path::Tiny'       => 0,
         'File::ShareDir'          => 0,
-        'Map::Metro::Plugin::Map' => 0,
+        'Map::Metro::Plugin::Map' => 0.1800,
     },
     (eval { ExtUtils::MakeMaker->VERSION(6.46) } ? (META_MERGE => {
         'meta-spec' => { version => 2 },

@@ -11,25 +11,19 @@
 # WWW:  http://www.rezic.de/eserte/
 #
 
-package Map::Metro::Plugin::Map::Berlin;
+package Map::Metro::Plugin::Map::Berlin {
 
-use strict;
-use vars qw($VERSION);
-$VERSION = '0.01';
+    our $VERSION = '0.02';
 
-use Moose::Role;
-
-use File::ShareDir 'dist_dir';
-use Path::Tiny;
-use Types::Path::Tiny -types;
+    use Moose;
+    use File::ShareDir 'dist_dir';
+    use Path::Tiny;
+    with 'Map::Metro::Plugin::Map';
  
-with 'Map::Metro::Plugin::Map';
- 
-has berlin => (
-	       is => 'ro',
-	       isa => AbsFile,
-	       default => sub { path(dist_dir('Map-Metro-Plugin-Map-Berlin'))->child('map-berlin.metro')->absolute },
-	      );
+    has '+mapfile' => (
+		       default => sub { path(dist_dir('Map-Metro-Plugin-Map-Berlin'))->child('map-berlin.metro')->absolute },
+		      );
+}
 
 1;
 
