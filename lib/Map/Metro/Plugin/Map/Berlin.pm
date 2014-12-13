@@ -28,3 +28,33 @@ package Map::Metro::Plugin::Map::Berlin {
 1;
 
 __END__
+
+=encoding utf-8
+ 
+=head1 NAME
+ 
+Map::Metro::Plugin::Map::Berlin - Map::Metro map for Berlin
+ 
+=head1 SYNOPSIS
+ 
+    use Map::Metro;
+    my $graph = Map::Metro->new('Berlin')->parse;
+ 
+=head1 DESCRIPTION
+ 
+See L<Map::Metro> for usage information.
+ 
+=head1 Status
+ 
+Currently it contains only the U-Bahn network, but in future
+the S-Bahn network should be included, too.
+
+=head1 AUTHOR
+ 
+Slaven Rezic E<lt>srezic@cpan.orgE<gt>
+ 
+=head1 SEE ALSO
+
+L<Map::Metro>, L<Map::Tube::Berlin>.
+ 
+=cut
