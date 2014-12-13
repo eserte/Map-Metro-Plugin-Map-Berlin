@@ -33,8 +33,8 @@ WriteMakefile(
         resources => {
             repository => {
                 type => 'git',
-                url  => 'https://github.com/eserte/Map-Metros-Plugin-Map-Berlin.git',
-                web  => 'https://github.com/eserte/Map-Metros-Plugin-Map-Berlin',
+                url  => 'https://github.com/eserte/Map-Metro-Plugin-Map-Berlin.git',
+                web  => 'https://github.com/eserte/Map-Metro-Plugin-Map-Berlin',
             },
         }})
      : ()
