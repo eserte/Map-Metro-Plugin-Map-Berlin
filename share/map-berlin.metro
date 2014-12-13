@@ -1,199 +1,7 @@
 --stations
 
-# S1
-Wannsee
-Nikolassee
-Schlachtensee
-Mexikoplatz
-Zehlendorf
-Sundgauer Str.
-Lichterfelde-West
-Botanischer Garten
-Rathaus Steglitz
-Feuerbachstr.
-Friedenau
-Schöneberg
-Julius-Leber-Brücke
-Yorckstr.
-Anhalter Bhf.
-Potsdamer Platz
-Brandenburger Tor
-Friedrichstr.
-Oranienburger Str.
-Nordbahnhof
-Humboldthain
-Gesundbrunnen
-Bornholmer Str.
-Wollankstr.
-Schönholz
-Wilhelmsruh
-Wittenau
-Waidmannslust
-Hermsdorf
-Frohnau
-Hohen Neuendorf
-Birkenwerder
-Borgsdorf
-Lehnitz
-Oranienburg
-
-# S2
-Blankenfelde
-Mahlow
-Lichtenrade
-Schichauweg
-Buckower Chaussee
-Marienfelde
-Attilastr.
-Priesterweg
-Südkreuz
-Pankow
-Pankow-Heinersdorf
-Blankenburg
-Karow
-Buch
-Röntgental
-Zepernick
-Bernau-Friedenstal
-Bernau
-
-# S25
-Teltow Stadt
-Lichterfelde Süd
-Osdorfer Str.
-Lichterfelde Ost
-Lankwitz
-Südende
-Alt-Reinickendorf
-Karl-Bonhoeffer-Nervenklinik
-Eichborndamm
-Tegel
-Schulzendorf
-Heiligensee
-Hennigsdorf
-
-# S3
-Erkner
-Wilhelmshagen
-Rahnsdorf
-Friedrichshagen
-Hirschgarten
-Köpenick
-Wuhlheide
-Karlshorst
-Betriebsbhf. Rummelsburg
-Rummelsburg
-Ostkreuz
-Warschauer Str.
-Ostbahnhof
-Jannowitzbrücke
-Alexanderplatz
-Hackescher Markt
-Hauptbahnhof
-Bellevue
-Tiergarten
-Zoologischer Garten
-Savignyplatz
-Charlottenburg
-Westkreuz
-
-# S41/S42
-Schönhauser Allee
-Prenzlauer Allee
-Greifswalder Str.
-Landsberger Allee
-Storkower Str.
-Frankfurter Allee
-Treptower Park
-Sonnenallee
-Neukölln
-Hermannstr.
-Tempelhof
-Innsbrucker Platz
-Bundesplatz
-Heidelberger Platz
-Hohenzollerndamm
-Halensee
-Messe Nord/ICC
-Westend
-Jungfernheide
-Beusselstr.
-Westhafen
-Wedding
-
-# S45
-Köllnische Heide
-Baumschulenweg
-Schöneweide
-Betriebsbhf. Schöneweide
-Adlershof
-Altglienicke
-Grünbergallee
-Flughafen Berlin-Schönefeld
-
-# S46
-Grünau
-Eichwalde
-Zeuthen
-Wildau
-Königs Wusterhausen
-
-# S47
-Spindlersfeld
-Oberspree
-
-# S5
-Strausberg Nord
-Strausberg Stadt
-Hegermühle
-Strausberg
-Petershagen Nord
-Fredersdorf
-Neuenhagen
-Hoppegarten
-Birkenstein
-Mahlsdorf
-Kaulsdorf
-Wuhletal
-Biesdorf
-Friedrichsfelde Ost
-Lichtenberg
-Nöldnerplatz
-
-# S7
-Ahrensfelde
-Mehrower Allee
-Raoul-Wallenberg-Str.
-Marzahn
-Poelchaustr.
-Springpfuhl
-Grunewald
-Griebnitzsee
-Babelsberg
-Potsdam Hauptbahnhof
-
-# S75
-Wartenberg
-Hohenschönhausen
-Gehrenseestr.
-Messe Süd
-Heerstr.
-Olympiastadion
-Pichelsberg
-Stresow
-Spandau
-
-# S8
-Plänterwald
-Mühlenbeck-Mönchsmühle
-Schönfließ
-Bergfelde b. Berlin
-
-# S85
-
-# S9
-
 # U1
+Warschauer Str.
 Schlesisches Tor
 Görlitzer Bhf.
 Kottbusser Tor
@@ -208,18 +16,23 @@ Kurfürstendamm
 Uhlandstr.
 
 # U2
+Pankow
 Vinetastr.
+Schönhauser Allee
 Eberswalder Str.
 Senefelderplatz
 Rosa-Luxemburg-Platz
+Alexanderplatz
 Klosterstr.
 Märkisches Museum
 Spittelmarkt
 Hausvogteiplatz
 Stadtmitte
 Mohrenstr.
+Potsdamer Platz
 Mendelssohn-Bartholdy-Park
 Bülowstr.
+Zoologischer Garten
 Ernst-Reuter-Platz
 Deutsche Oper
 Bismarckstr.
@@ -235,6 +48,7 @@ Augsburger Str.
 Spichernstr.
 Hohenzollernplatz
 Fehrbelliner Platz
+Heidelberger Platz
 Rüdesheimer Platz
 Breitenbachplatz
 Podbielskiallee
@@ -248,6 +62,7 @@ Krumme Lanke
 Viktoria-Luise-Platz
 Bayerischer Platz
 Rathaus Schöneberg
+Innsbrucker Platz
 
 # U5
 Schillingstr.
@@ -255,11 +70,14 @@ Strausberger Platz
 Weberwiese
 Frankfurter Tor
 Samariterstr.
+Frankfurter Allee
 Magdalenenstr.
+Lichtenberg
 Friedrichsfelde
 Tierpark
 Biesdorf-Süd
 Elsterwerdaer Platz
+Wuhletal
 Kaulsdorf-Nord
 Neue Grottkauer Str.
 Cottbusser Platz
@@ -268,7 +86,9 @@ Louis-Lewin-Str.
 Hönow
 
 # U55
+Brandenburger Tor
 Bundestag
+Hauptbahnhof
 
 # U6
 Alt-Mariendorf
@@ -276,15 +96,18 @@ Westphalweg
 Ullsteinstr.
 Kaiserin-Augusta-Str.
 Alt-Tempelhof
+Tempelhof
 Paradestr.
 Platz der Luftbrücke
 Mehringdamm
 Kochstr.
 Französische Str.
+Friedrichstr.
 Oranienburger Tor
 Naturkundemuseum
 Schwartzkopffstr.
 Reinickendorfer Str.
+Wedding
 Leopoldplatz
 Seestr.
 Rehberge
@@ -306,11 +129,13 @@ Britz-Süd
 Parchimer Allee
 Blaschkoallee
 Grenzallee
+Neukölln
 Karl-Marx-Str.
 Rathaus Neukölln
 Hermannplatz
 Südstern
 Gneisenaustr.
+Yorckstr.
 Kleistpark
 Eisenacher Str.
 Berliner Str.
@@ -320,6 +145,7 @@ Adenauerplatz
 Wilmersdorfer Str.
 Richard-Wagner-Platz
 Mierendorffplatz
+Jungfernheide
 Jakob-Kaiser-Platz
 Halemweg
 Siemensdamm
@@ -331,417 +157,240 @@ Altstadt Spandau
 Rathaus Spandau
 
 # U8
+Hermannstr.
 Leinestr.
 Boddinstr.
 Schönleinstr.
 Moritzplatz
 Heinrich-Heine-Str.
+Jannowitzbrücke
 Weinmeisterstr.
 Rosenthaler Platz
 Bernauer Str.
 Voltastr.
+Gesundbrunnen
 Pankstr.
 Osloer Str.
 Franz-Neumann-Platz
 Residenzstr.
 Paracelsus-Bad
 Lindauer Allee
+Karl-Bonhoeffer-Nervenklinik
 Rathaus Reinickendorf
+Wittenau
 
 # U9
 Nauener Platz
 Amrumer Str.
+Westhafen
 Birkenstr.
 Turmstr.
 Hansaplatz
 Güntzelstr.
+Bundesplatz
 Friedrich-Wilhelm-Platz
 Walther-Schreiber-Platz
 Schloßstr.
+Rathaus Steglitz
 
 --transfers
 
 --lines
 
-S1|S1|
-S2|S2|
-S25|S25|
-S3|S3|
-S41S42|S41/S42|
-S45|S45|
-S46|S46|
-S47|S47|
-S5|S5|
-S7|S7|
-S75|S75|
-S8|S8|
-S85|S85|
-S9|S9|
-U1|U1|
-U2|U2|
-U3|U3|
-U4|U4|
-U5|U5|
-U55|U55|
-U6|U6|
-U7|U7|
-U8|U8|
-U9|U9|
+1|U1|
+2|U2|
+3|U3|
+4|U4|
+5|U5|
+55|U55|
+6|U6|
+7|U7|
+8|U8|
+9|U9|
 
 --segments
 
-U7|Adenauerplatz|Wilmersdorfer Str.
-S8,S85,S9,S46,S45|Adlershof|Betriebsbhf. Schöneweide
-U6|Afrikanische Str.|Kurt-Schumacher-Platz
-S7|Ahrensfelde|Mehrower Allee
-S3,S5,S7,S75|Alexanderplatz|Hackescher Markt
-U2|Alexanderplatz|Klosterstr.
-U5|Alexanderplatz|Schillingstr.
-U8|Alexanderplatz|Weinmeisterstr.
-U6|Alt-Mariendorf|Westphalweg
-S25|Alt-Reinickendorf|Karl-Bonhoeffer-Nervenklinik
-U6|Alt-Tempelhof|Tempelhof
-S9,S45|Altglienicke|Adlershof
-U7|Altstadt Spandau|Rathaus Spandau
-U9|Amrumer Str.|Westhafen
-S1,S25,S2|Anhalter Bhf.|Potsdamer Platz
-S2|Attilastr.|Priesterweg
-U3|Augsburger Str.|Spichernstr.
-S7|Babelsberg|Potsdam Hauptbahnhof
-S47,S46,S45|Baumschulenweg|Köllnische Heide
-S8,S85,S9|Baumschulenweg|Plänterwald
-U7|Bayerischer Platz|Berliner Str.
-U4|Bayerischer Platz|Rathaus Schöneberg
-S3,S5,S7,S75|Bellevue|Tiergarten
-S8|Bergfelde b. Berlin|Hohen Neuendorf
-U7|Berliner Str.|Blissestr.
-U9|Berliner Str.|Bundesplatz
-S2|Bernau-Friedenstal|Bernau
-U8|Bernauer Str.|Voltastr.
-S3|Betriebsbhf. Rummelsburg|Rummelsburg
-S8,S85,S9,S46,S45|Betriebsbhf. Schöneweide|Schöneweide
-S41S42|Beusselstr.|Westhafen
-S5|Biesdorf|Friedrichsfelde Ost
-U5|Biesdorf-Süd|Elsterwerdaer Platz
-S5|Birkenstein|Mahlsdorf
-U9|Birkenstr.|Turmstr.
-S1|Birkenwerder|Borgsdorf
-U7|Bismarckstr.|Richard-Wagner-Platz
-U2|Bismarckstr.|Sophie-Charlotte-Platz
-S2|Blankenburg|Karow
-S8|Blankenburg|Mühlenbeck-Mönchsmühle
-S2|Blankenfelde|Mahlow
-U7|Blaschkoallee|Grenzallee
-U7|Blissestr.|Fehrbelliner Platz
-U8|Boddinstr.|Hermannplatz
-S1|Borgsdorf|Lehnitz
-S8,S2,S9|Bornholmer Str.|Pankow
-S1,S25,S85|Bornholmer Str.|Wollankstr.
-U6|Borsigwerke|Alt-Tegel
-S1|Botanischer Garten|Rathaus Steglitz
-U55|Brandenburger Tor|Bundestag
-S1,S25,S2|Brandenburger Tor|Friedrichstr.
-U3|Breitenbachplatz|Podbielskiallee
-U7|Britz-Süd|Parchimer Allee
-S2|Buch|Röntgental
-S2|Buckower Chaussee|Marienfelde
-U9|Bundesplatz|Friedrich-Wilhelm-Platz
-S41S42,S46|Bundesplatz|Heidelberger Platz
-U55|Bundestag|Hauptbahnhof
-U2|Bülowstr.|Nollendorfplatz
-S3,S5,S7,S75|Charlottenburg|Westkreuz
-U5|Cottbusser Platz|Hellersdorf
-U3|Dahlem-Dorf|Thielplatz
-U2|Deutsche Oper|Bismarckstr.
-U2|Eberswalder Str.|Senefelderplatz
-S25|Eichborndamm|Tegel
-S8,S46|Eichwalde|Grünau
-U7|Eisenacher Str.|Bayerischer Platz
-U5|Elsterwerdaer Platz|Wuhletal
-S3|Erkner|Wilhelmshagen
-U2|Ernst-Reuter-Platz|Deutsche Oper
-U3|Fehrbelliner Platz|Heidelberger Platz
-U7|Fehrbelliner Platz|Konstanzer Str.
-S1|Feuerbachstr.|Friedenau
-S9,S45|Flughafen Berlin-Schönefeld|Grünbergallee
-U5|Frankfurter Allee|Magdalenenstr.
-S41S42,S8,S85,S9|Frankfurter Allee|Ostkreuz
-U5|Frankfurter Tor|Samariterstr.
-U8|Franz-Neumann-Platz|Residenzstr.
-U6|Französische Str.|Friedrichstr.
-S5|Fredersdorf|Neuenhagen
-S1|Friedenau|Schöneberg
-U9|Friedrich-Wilhelm-Platz|Walther-Schreiber-Platz
-U5|Friedrichsfelde|Tierpark
-S5,S7,S75|Friedrichsfelde Ost|Lichtenberg
-S3|Friedrichshagen|Hirschgarten
-S3,S5,S7,S75|Friedrichstr.|Hauptbahnhof
-S1,S25,S2|Friedrichstr.|Oranienburger Str.
-U6|Friedrichstr.|Oranienburger Tor
-S1|Frohnau|Hohen Neuendorf
-S75|Gehrenseestr.|Springpfuhl
-S1,S25,S2|Gesundbrunnen|Bornholmer Str.
-U8|Gesundbrunnen|Pankstr.
-U2|Gleisdreieck|Bülowstr.
-U1|Gleisdreieck|Kurfürstenstr.
-U7|Gneisenaustr.|Mehringdamm
-S41S42,S8,S85,S9|Greifswalder Str.|Landsberger Allee
-U7|Grenzallee|Neukölln
-S7|Griebnitzsee|Babelsberg
-S7|Grunewald|Nikolassee
-S8,S85,S46|Grünau|Adlershof
-S9,S45|Grünbergallee|Altglienicke
-U1|Görlitzer Bhf.|Kottbusser Tor
-U9|Güntzelstr.|Berliner Str.
-S3,S5,S7,S75|Hackescher Markt|Friedrichstr.
-U7|Halemweg|Siemensdamm
-S41S42,S46|Halensee|Westkreuz
-U6|Hallesches Tor|Kochstr.
-U1|Hallesches Tor|Möckernbrücke
-U9|Hansaplatz|Zoologischer Garten
-U7|Haselhorst|Zitadelle
-S3,S5,S7,S75|Hauptbahnhof|Bellevue
-U2|Hausvogteiplatz|Stadtmitte
-S75|Heerstr.|Olympiastadion
-S5|Hegermühle|Strausberg
-S41S42,S46|Heidelberger Platz|Hohenzollerndamm
-U3|Heidelberger Platz|Rüdesheimer Platz
-S25|Heiligensee|Hennigsdorf
-U8|Heinrich-Heine-Str.|Jannowitzbrücke
-U5|Hellersdorf|Louis-Lewin-Str.
-U8|Hermannplatz|Schönleinstr.
-U7|Hermannplatz|Südstern
-U8|Hermannstr.|Leinestr.
-S41S42,S47,S46,S45|Hermannstr.|Tempelhof
-S1|Hermsdorf|Frohnau
-S3|Hirschgarten|Köpenick
-S1,S8|Hohen Neuendorf|Birkenwerder
-S75|Hohenschönhausen|Gehrenseestr.
-S41S42,S46|Hohenzollerndamm|Halensee
-U3|Hohenzollernplatz|Fehrbelliner Platz
-U6|Holzhauser Str.|Borsigwerke
-S5|Hoppegarten|Birkenstein
-S1,S25,S2|Humboldthain|Gesundbrunnen
-S41S42,S46|Innsbrucker Platz|Bundesplatz
-U7|Jakob-Kaiser-Platz|Halemweg
-U8,S3,S5,S7,S75|Jannowitzbrücke|Alexanderplatz
-U7|Johannisthaler Chaussee|Britz-Süd
-S1|Julius-Leber-Brücke|Yorckstr.
-S41S42|Jungfernheide|Beusselstr.
-U7|Jungfernheide|Jakob-Kaiser-Platz
-U2|Kaiserdamm|Theodor-Heuss-Platz
-U6|Kaiserin-Augusta-Str.|Alt-Tempelhof
-S25|Karl-Bonhoeffer-Nervenklinik|Eichborndamm
-U8|Karl-Bonhoeffer-Nervenklinik|Rathaus Reinickendorf
-U7|Karl-Marx-Str.|Rathaus Neukölln
-S3|Karlshorst|Betriebsbhf. Rummelsburg
-S2|Karow|Buch
-S5|Kaulsdorf|Wuhletal
-U5|Kaulsdorf-Nord|Neue Grottkauer Str.
-U7|Kleistpark|Eisenacher Str.
-U2|Klosterstr.|Märkisches Museum
-U6|Kochstr.|Stadtmitte
-U7|Konstanzer Str.|Adenauerplatz
-U8|Kottbusser Tor|Moritzplatz
-U1|Kottbusser Tor|Prinzenstr.
-U9|Kurfürstendamm|Spichernstr.
-U1|Kurfürstendamm|Uhlandstr.
-U1|Kurfürstenstr.|Nollendorfplatz
-U6|Kurt-Schumacher-Platz|Scharnweberstr.
-S47,S46,S45|Köllnische Heide|Neukölln
-S3|Köpenick|Wuhlheide
-S41S42,S8,S85,S9|Landsberger Allee|Storkower Str.
-S25|Lankwitz|Südende
-S1|Lehnitz|Oranienburg
-U8|Leinestr.|Boddinstr.
-U9|Leopoldplatz|Amrumer Str.
-U6|Leopoldplatz|Seestr.
-U5|Lichtenberg|Friedrichsfelde
-S5,S7,S75|Lichtenberg|Nöldnerplatz
-S2|Lichtenrade|Schichauweg
-S25|Lichterfelde Ost|Lankwitz
-S25|Lichterfelde Süd|Osdorfer Str.
-S1|Lichterfelde-West|Botanischer Garten
-U8|Lindauer Allee|Karl-Bonhoeffer-Nervenklinik
-U7|Lipschitzallee|Johannisthaler Chaussee
-U5|Louis-Lewin-Str.|Hönow
-U5|Magdalenenstr.|Lichtenberg
-S2|Mahlow|Lichtenrade
-S5|Mahlsdorf|Kaulsdorf
-S2|Marienfelde|Attilastr.
-S7|Marzahn|Poelchaustr.
-U6|Mehringdamm|Hallesches Tor
-U7|Mehringdamm|Möckernbrücke
-S7|Mehrower Allee|Raoul-Wallenberg-Str.
-U2|Mendelssohn-Bartholdy-Park|Gleisdreieck
-S41S42,S46|Messe Nord/ICC|Westend
-S75|Messe Süd|Heerstr.
-S1|Mexikoplatz|Zehlendorf
-U7|Mierendorffplatz|Jungfernheide
-U2|Mohrenstr.|Potsdamer Platz
-U8|Moritzplatz|Heinrich-Heine-Str.
-U2|Märkisches Museum|Spittelmarkt
-U1|Möckernbrücke|Gleisdreieck
-U7|Möckernbrücke|Yorckstr.
-S8|Mühlenbeck-Mönchsmühle|Schönfließ
-U6|Naturkundemuseum|Schwartzkopffstr.
-U9|Nauener Platz|Leopoldplatz
-U2|Neu-Westend|Olympia-Stadion
-U5|Neue Grottkauer Str.|Cottbusser Platz
-S5|Neuenhagen|Hoppegarten
-S41S42,S47,S46,S45|Neukölln|Hermannstr.
-U7|Neukölln|Karl-Marx-Str.
-S1|Nikolassee|Schlachtensee
-U4|Nollendorfplatz|Viktoria-Luise-Platz
-U1,U3,U2|Nollendorfplatz|Wittenbergplatz
-S1,S25,S2|Nordbahnhof|Humboldthain
-S5,S7,S75|Nöldnerplatz|Ostkreuz
-S47|Oberspree|Schöneweide
-U2|Olympia-Stadion|Ruhleben
-S75|Olympiastadion|Pichelsberg
-U3|Onkel Toms Hütte|Krumme Lanke
-S1,S25,S2|Oranienburger Str.|Nordbahnhof
-U6|Oranienburger Tor|Naturkundemuseum
-S25|Osdorfer Str.|Lichterfelde Ost
-U3|Oskar-Helene-Heim|Onkel Toms Hütte
-U8|Osloer Str.|Franz-Neumann-Platz
-U9|Osloer Str.|Nauener Platz
-S3,S5,S7,S75|Ostbahnhof|Jannowitzbrücke
-S41S42,S8,S85,S9|Ostkreuz|Treptower Park
-S3,S5,S7,S75|Ostkreuz|Warschauer Str.
-U6|Otisstr.|Holzhauser Str.
-S8,S2,S9|Pankow|Pankow-Heinersdorf
-U2|Pankow|Vinetastr.
-S8,S2,S9|Pankow-Heinersdorf|Blankenburg
-U8|Pankstr.|Osloer Str.
-U8|Paracelsus-Bad|Lindauer Allee
-U6|Paradestr.|Platz der Luftbrücke
-U7|Parchimer Allee|Blaschkoallee
-U7|Paulsternstr.|Haselhorst
-S5|Petershagen Nord|Fredersdorf
-S75|Pichelsberg|Stresow
-U6|Platz der Luftbrücke|Mehringdamm
-S8,S85,S9|Plänterwald|Treptower Park
-U3|Podbielskiallee|Dahlem-Dorf
-S7|Poelchaustr.|Springpfuhl
-S1,S25,S2|Potsdamer Platz|Brandenburger Tor
-U2|Potsdamer Platz|Mendelssohn-Bartholdy-Park
-S41S42,S8,S85,S9|Prenzlauer Allee|Greifswalder Str.
-S25,S2|Priesterweg|Südkreuz
-U1|Prinzenstr.|Hallesches Tor
-S3|Rahnsdorf|Friedrichshagen
-S7|Raoul-Wallenberg-Str.|Marzahn
-U7|Rathaus Neukölln|Hermannplatz
-U8|Rathaus Reinickendorf|Wittenau
-U4|Rathaus Schöneberg|Innsbrucker Platz
-S1|Rathaus Steglitz|Feuerbachstr.
-U6|Rehberge|Afrikanische Str.
-U6|Reinickendorfer Str.|Wedding
-U8|Residenzstr.|Paracelsus-Bad
-U7|Richard-Wagner-Platz|Mierendorffplatz
-U7|Rohrdamm|Paulsternstr.
-U2|Rosa-Luxemburg-Platz|Alexanderplatz
-U8|Rosenthaler Platz|Bernauer Str.
-U7|Rudow|Zwickauer Damm
-S3|Rummelsburg|Ostkreuz
-S2|Röntgental|Zepernick
-U3|Rüdesheimer Platz|Breitenbachplatz
-U5|Samariterstr.|Frankfurter Allee
-S3,S5,S7,S75|Savignyplatz|Charlottenburg
-U6|Scharnweberstr.|Otisstr.
-S2|Schichauweg|Buckower Chaussee
-U5|Schillingstr.|Strausberger Platz
-S1|Schlachtensee|Mexikoplatz
-U1|Schlesisches Tor|Görlitzer Bhf.
-U9|Schloßstr.|Rathaus Steglitz
-S25|Schulzendorf|Heiligensee
-U6|Schwartzkopffstr.|Reinickendorfer Str.
-S41S42,S46|Schöneberg|Innsbrucker Platz
-S1|Schöneberg|Julius-Leber-Brücke
-S8,S85,S47,S9,S46,S45|Schöneweide|Baumschulenweg
-S8|Schönfließ|Bergfelde b. Berlin
-S8,S85,S9|Schönhauser Allee|Bornholmer Str.
-U2|Schönhauser Allee|Eberswalder Str.
-S41S42,S8,S85,S9|Schönhauser Allee|Prenzlauer Allee
-S25|Schönholz|Alt-Reinickendorf
-S1,S85|Schönholz|Wilhelmsruh
-U8|Schönleinstr.|Kottbusser Tor
-U6|Seestr.|Rehberge
-U2|Senefelderplatz|Rosa-Luxemburg-Platz
-U7|Siemensdamm|Rohrdamm
-S41S42|Sonnenallee|Neukölln
-U2|Sophie-Charlotte-Platz|Kaiserdamm
-U9|Spichernstr.|Güntzelstr.
-U3|Spichernstr.|Hohenzollernplatz
-S47|Spindlersfeld|Oberspree
-U2|Spittelmarkt|Hausvogteiplatz
-S7,S75|Springpfuhl|Friedrichsfelde Ost
-U6|Stadtmitte|Französische Str.
-U2|Stadtmitte|Mohrenstr.
-S41S42,S8,S85,S9|Storkower Str.|Frankfurter Allee
-S5|Strausberg|Petershagen Nord
-S5|Strausberg Nord|Strausberg Stadt
-S5|Strausberg Stadt|Hegermühle
-U5|Strausberger Platz|Weberwiese
-S75|Stresow|Spandau
-S1|Sundgauer Str.|Lichterfelde-West
-S25|Südende|Priesterweg
-S41S42,S46|Südkreuz|Schöneberg
-S25,S2|Südkreuz|Yorckstr.
-U7|Südstern|Gneisenaustr.
-S25|Tegel|Schulzendorf
-S25|Teltow Stadt|Lichterfelde Süd
-U6|Tempelhof|Paradestr.
-S41S42,S47,S46,S45|Tempelhof|Südkreuz
-U2|Theodor-Heuss-Platz|Neu-Westend
-U3|Thielplatz|Oskar-Helene-Heim
-S3,S5,S7,S75|Tiergarten|Zoologischer Garten
-U5|Tierpark|Biesdorf-Süd
-S41S42|Treptower Park|Sonnenallee
-U9|Turmstr.|Hansaplatz
-U6|Ullsteinstr.|Kaiserin-Augusta-Str.
-U4|Viktoria-Luise-Platz|Bayerischer Platz
-U2|Vinetastr.|Schönhauser Allee
-U8|Voltastr.|Gesundbrunnen
-S1|Waidmannslust|Hermsdorf
-U9|Walther-Schreiber-Platz|Schloßstr.
-S7|Wannsee|Griebnitzsee
-S1,S7|Wannsee|Nikolassee
-S3,S5,S7,S75|Warschauer Str.|Ostbahnhof
-U1|Warschauer Str.|Schlesisches Tor
-S75|Wartenberg|Hohenschönhausen
-U5|Weberwiese|Frankfurter Tor
-S41S42|Wedding|Gesundbrunnen
-U6|Wedding|Leopoldplatz
-U8|Weinmeisterstr.|Rosenthaler Platz
-S41S42|Westend|Jungfernheide
-U9|Westhafen|Birkenstr.
-S41S42|Westhafen|Wedding
-S7|Westkreuz|Grunewald
-S41S42,S46|Westkreuz|Messe Nord/ICC
-S75|Westkreuz|Messe Süd
-U6|Westphalweg|Ullsteinstr.
-S46|Wildau|Königs Wusterhausen
-S3|Wilhelmshagen|Rahnsdorf
-S1,S85|Wilhelmsruh|Wittenau
-U7|Wilmersdorfer Str.|Bismarckstr.
-S1,S85|Wittenau|Waidmannslust
-U3|Wittenbergplatz|Augsburger Str.
-U1|Wittenbergplatz|Kurfürstendamm
-U2|Wittenbergplatz|Zoologischer Garten
-S1,S25,S85|Wollankstr.|Schönholz
-S5|Wuhletal|Biesdorf
-U5|Wuhletal|Kaulsdorf-Nord
-S3|Wuhlheide|Karlshorst
-U7|Wutzkyallee|Lipschitzallee
-S1,S25,S2|Yorckstr.|Anhalter Bhf.
-U7|Yorckstr.|Kleistpark
-S1|Zehlendorf|Sundgauer Str.
-S2|Zepernick|Bernau-Friedenstal
-S8,S46|Zeuthen|Eichwalde
-S46|Zeuthen|Wildau
-U7|Zitadelle|Altstadt Spandau
-U2|Zoologischer Garten|Ernst-Reuter-Platz
-U9|Zoologischer Garten|Kurfürstendamm
-S3,S5,S7,S75|Zoologischer Garten|Savignyplatz
-U7|Zwickauer Damm|Wutzkyallee
+7|Adenauerplatz|Wilmersdorfer Str.
+6|Afrikanische Str.|Kurt-Schumacher-Platz
+2|Alexanderplatz|Klosterstr.
+5|Alexanderplatz|Schillingstr.
+8|Alexanderplatz|Weinmeisterstr.
+6|Alt-Mariendorf|Westphalweg
+6|Alt-Tempelhof|Tempelhof
+7|Altstadt Spandau|Rathaus Spandau
+9|Amrumer Str.|Westhafen
+3|Augsburger Str.|Spichernstr.
+7|Bayerischer Platz|Berliner Str.
+4|Bayerischer Platz|Rathaus Schöneberg
+7|Berliner Str.|Blissestr.
+9|Berliner Str.|Bundesplatz
+8|Bernauer Str.|Voltastr.
+5|Biesdorf-Süd|Elsterwerdaer Platz
+9|Birkenstr.|Turmstr.
+7|Bismarckstr.|Richard-Wagner-Platz
+2|Bismarckstr.|Sophie-Charlotte-Platz
+7|Blaschkoallee|Grenzallee
+7|Blissestr.|Fehrbelliner Platz
+8|Boddinstr.|Hermannplatz
+6|Borsigwerke|Alt-Tegel
+55|Brandenburger Tor|Bundestag
+3|Breitenbachplatz|Podbielskiallee
+7|Britz-Süd|Parchimer Allee
+9|Bundesplatz|Friedrich-Wilhelm-Platz
+55|Bundestag|Hauptbahnhof
+2|Bülowstr.|Nollendorfplatz
+5|Cottbusser Platz|Hellersdorf
+3|Dahlem-Dorf|Thielplatz
+2|Deutsche Oper|Bismarckstr.
+2|Eberswalder Str.|Senefelderplatz
+7|Eisenacher Str.|Bayerischer Platz
+5|Elsterwerdaer Platz|Wuhletal
+2|Ernst-Reuter-Platz|Deutsche Oper
+3|Fehrbelliner Platz|Heidelberger Platz
+7|Fehrbelliner Platz|Konstanzer Str.
+5|Frankfurter Allee|Magdalenenstr.
+5|Frankfurter Tor|Samariterstr.
+8|Franz-Neumann-Platz|Residenzstr.
+6|Französische Str.|Friedrichstr.
+9|Friedrich-Wilhelm-Platz|Walther-Schreiber-Platz
+5|Friedrichsfelde|Tierpark
+6|Friedrichstr.|Oranienburger Tor
+8|Gesundbrunnen|Pankstr.
+2|Gleisdreieck|Bülowstr.
+1|Gleisdreieck|Kurfürstenstr.
+7|Gneisenaustr.|Mehringdamm
+7|Grenzallee|Neukölln
+1|Görlitzer Bhf.|Kottbusser Tor
+9|Güntzelstr.|Berliner Str.
+7|Halemweg|Siemensdamm
+6|Hallesches Tor|Kochstr.
+1|Hallesches Tor|Möckernbrücke
+9|Hansaplatz|Zoologischer Garten
+7|Haselhorst|Zitadelle
+2|Hausvogteiplatz|Stadtmitte
+3|Heidelberger Platz|Rüdesheimer Platz
+8|Heinrich-Heine-Str.|Jannowitzbrücke
+5|Hellersdorf|Louis-Lewin-Str.
+8|Hermannplatz|Schönleinstr.
+7|Hermannplatz|Südstern
+8|Hermannstr.|Leinestr.
+3|Hohenzollernplatz|Fehrbelliner Platz
+6|Holzhauser Str.|Borsigwerke
+7|Jakob-Kaiser-Platz|Halemweg
+8|Jannowitzbrücke|Alexanderplatz
+7|Johannisthaler Chaussee|Britz-Süd
+7|Jungfernheide|Jakob-Kaiser-Platz
+2|Kaiserdamm|Theodor-Heuss-Platz
+6|Kaiserin-Augusta-Str.|Alt-Tempelhof
+8|Karl-Bonhoeffer-Nervenklinik|Rathaus Reinickendorf
+7|Karl-Marx-Str.|Rathaus Neukölln
+5|Kaulsdorf-Nord|Neue Grottkauer Str.
+7|Kleistpark|Eisenacher Str.
+2|Klosterstr.|Märkisches Museum
+6|Kochstr.|Stadtmitte
+7|Konstanzer Str.|Adenauerplatz
+8|Kottbusser Tor|Moritzplatz
+1|Kottbusser Tor|Prinzenstr.
+9|Kurfürstendamm|Spichernstr.
+1|Kurfürstendamm|Uhlandstr.
+1|Kurfürstenstr.|Nollendorfplatz
+6|Kurt-Schumacher-Platz|Scharnweberstr.
+8|Leinestr.|Boddinstr.
+9|Leopoldplatz|Amrumer Str.
+6|Leopoldplatz|Seestr.
+5|Lichtenberg|Friedrichsfelde
+8|Lindauer Allee|Karl-Bonhoeffer-Nervenklinik
+7|Lipschitzallee|Johannisthaler Chaussee
+5|Louis-Lewin-Str.|Hönow
+5|Magdalenenstr.|Lichtenberg
+6|Mehringdamm|Hallesches Tor
+7|Mehringdamm|Möckernbrücke
+2|Mendelssohn-Bartholdy-Park|Gleisdreieck
+7|Mierendorffplatz|Jungfernheide
+2|Mohrenstr.|Potsdamer Platz
+8|Moritzplatz|Heinrich-Heine-Str.
+2|Märkisches Museum|Spittelmarkt
+1|Möckernbrücke|Gleisdreieck
+7|Möckernbrücke|Yorckstr.
+6|Naturkundemuseum|Schwartzkopffstr.
+9|Nauener Platz|Leopoldplatz
+2|Neu-Westend|Olympia-Stadion
+5|Neue Grottkauer Str.|Cottbusser Platz
+7|Neukölln|Karl-Marx-Str.
+4|Nollendorfplatz|Viktoria-Luise-Platz
+1,3,2|Nollendorfplatz|Wittenbergplatz
+2|Olympia-Stadion|Ruhleben
+3|Onkel Toms Hütte|Krumme Lanke
+6|Oranienburger Tor|Naturkundemuseum
+3|Oskar-Helene-Heim|Onkel Toms Hütte
+8|Osloer Str.|Franz-Neumann-Platz
+9|Osloer Str.|Nauener Platz
+6|Otisstr.|Holzhauser Str.
+2|Pankow|Vinetastr.
+8|Pankstr.|Osloer Str.
+8|Paracelsus-Bad|Lindauer Allee
+6|Paradestr.|Platz der Luftbrücke
+7|Parchimer Allee|Blaschkoallee
+7|Paulsternstr.|Haselhorst
+6|Platz der Luftbrücke|Mehringdamm
+3|Podbielskiallee|Dahlem-Dorf
+2|Potsdamer Platz|Mendelssohn-Bartholdy-Park
+1|Prinzenstr.|Hallesches Tor
+7|Rathaus Neukölln|Hermannplatz
+8|Rathaus Reinickendorf|Wittenau
+4|Rathaus Schöneberg|Innsbrucker Platz
+6|Rehberge|Afrikanische Str.
+6|Reinickendorfer Str.|Wedding
+8|Residenzstr.|Paracelsus-Bad
+7|Richard-Wagner-Platz|Mierendorffplatz
+7|Rohrdamm|Paulsternstr.
+2|Rosa-Luxemburg-Platz|Alexanderplatz
+8|Rosenthaler Platz|Bernauer Str.
+7|Rudow|Zwickauer Damm
+3|Rüdesheimer Platz|Breitenbachplatz
+5|Samariterstr.|Frankfurter Allee
+6|Scharnweberstr.|Otisstr.
+5|Schillingstr.|Strausberger Platz
+1|Schlesisches Tor|Görlitzer Bhf.
+9|Schloßstr.|Rathaus Steglitz
+6|Schwartzkopffstr.|Reinickendorfer Str.
+2|Schönhauser Allee|Eberswalder Str.
+8|Schönleinstr.|Kottbusser Tor
+6|Seestr.|Rehberge
+2|Senefelderplatz|Rosa-Luxemburg-Platz
+7|Siemensdamm|Rohrdamm
+2|Sophie-Charlotte-Platz|Kaiserdamm
+9|Spichernstr.|Güntzelstr.
+3|Spichernstr.|Hohenzollernplatz
+2|Spittelmarkt|Hausvogteiplatz
+6|Stadtmitte|Französische Str.
+2|Stadtmitte|Mohrenstr.
+5|Strausberger Platz|Weberwiese
+7|Südstern|Gneisenaustr.
+6|Tempelhof|Paradestr.
+2|Theodor-Heuss-Platz|Neu-Westend
+3|Thielplatz|Oskar-Helene-Heim
+5|Tierpark|Biesdorf-Süd
+9|Turmstr.|Hansaplatz
+6|Ullsteinstr.|Kaiserin-Augusta-Str.
+4|Viktoria-Luise-Platz|Bayerischer Platz
+2|Vinetastr.|Schönhauser Allee
+8|Voltastr.|Gesundbrunnen
+9|Walther-Schreiber-Platz|Schloßstr.
+1|Warschauer Str.|Schlesisches Tor
+5|Weberwiese|Frankfurter Tor
+6|Wedding|Leopoldplatz
+8|Weinmeisterstr.|Rosenthaler Platz
+9|Westhafen|Birkenstr.
+6|Westphalweg|Ullsteinstr.
+7|Wilmersdorfer Str.|Bismarckstr.
+3|Wittenbergplatz|Augsburger Str.
+1|Wittenbergplatz|Kurfürstendamm
+2|Wittenbergplatz|Zoologischer Garten
+5|Wuhletal|Kaulsdorf-Nord
+7|Wutzkyallee|Lipschitzallee
+7|Yorckstr.|Kleistpark
+7|Zitadelle|Altstadt Spandau
+2|Zoologischer Garten|Ernst-Reuter-Platz
+9|Zoologischer Garten|Kurfürstendamm
+7|Zwickauer Damm|Wutzkyallee
