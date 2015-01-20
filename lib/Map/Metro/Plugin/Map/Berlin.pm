@@ -3,7 +3,7 @@
 #
 # Author: Slaven Rezic
 #
-# Copyright (C) 2014 Slaven Rezic. All rights reserved.
+# Copyright (C) 2014,2015 Slaven Rezic. All rights reserved.
 # This package is free software; you can redistribute it and/or
 # modify it under the same terms as Perl itself.
 #
@@ -13,7 +13,7 @@
 
 package Map::Metro::Plugin::Map::Berlin {
 
-    our $VERSION = '0.02';
+    our $VERSION = '0.03';
 
     use Moose;
     use File::ShareDir 'dist_dir';
@@ -50,8 +50,7 @@ See L<Map::Metro> for usage information.
  
 =head1 Status
  
-Currently it contains only the U-Bahn network, but in future
-the S-Bahn network should be included, too.
+The network currently contains both U-Bahn and S-Bahn.
 
 =head1 AUTHOR
  
@@ -60,5 +59,5 @@ Slaven Rezic E<lt>srezic@cpan.orgE<gt>
 =head1 SEE ALSO
 
 L<Map::Metro>, L<Map::Tube::Berlin>.
- 
+
 =cut

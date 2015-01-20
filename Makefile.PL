@@ -1,5 +1,5 @@
 use strict;
-use 5.20.0; # because Map::Metro requires this version
+use 5.016000; # because Map::Metro requires this version
 use ExtUtils::MakeMaker;
 use File::ShareDir::Install;
 
@@ -26,7 +26,7 @@ WriteMakefile(
         'Path::Tiny'              => 0,
         'Types::Path::Tiny'       => 0,
         'File::ShareDir'          => 0,
-        'Map::Metro::Plugin::Map' => 0.1800,
+        'Map::Metro::Plugin::Map' => 0.2200, # earlier versions are too slow
     },
     (eval { ExtUtils::MakeMaker->VERSION(6.46) } ? (META_MERGE => {
         'meta-spec' => { version => 2 },
