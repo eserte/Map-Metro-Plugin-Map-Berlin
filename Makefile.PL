@@ -53,8 +53,7 @@ build-map: share/map-berlin.metro
 share/map-berlin.metro: $(BBBIKE_DATADIR)/ubahn $(BBBIKE_DATADIR)/sbahn $(BBBIKE_DATADIR)/ubahnhof $(BBBIKE_DATADIR)/sbahnhof \
 			$(BBBIKE_DIR)/miscsrc/create_map_tube_xml.pl Makefile
 	mkdir -p share
-# XXX currently create only U-Bahn network
-	$(BBBIKE_DIR)/miscsrc/create_map_tube_xml.pl --ubahn --no-sbahn --output-format=Map::Metro > share/map-berlin.metro~
+	$(BBBIKE_DIR)/miscsrc/create_map_tube_xml.pl --ubahn --sbahn --output-format=Map::Metro > share/map-berlin.metro~
 	mv share/map-berlin.metro~ share/map-berlin.metro
 
 EOF

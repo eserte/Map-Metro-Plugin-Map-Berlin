@@ -14,17 +14,17 @@ use Map::Metro;
 my $graph = Map::Metro->new('Berlin')->parse;
 isa_ok $graph, 'Map::Metro::Graph', 'parsed Berlin graph';
 
-if (0) { # S-Bahn example
+if (1) { # S-Bahn example
     my $routing = $graph->routing_for('Alexanderplatz', 'Hauptbahnhof');
  
     is $routing->origin_station->name, 'Alexanderplatz';
     is $routing->destination_station->name, 'Hauptbahnhof';
  
     my($best_route) = $routing->ordered_routes;
-    my @line_stations = $best_route->line_stations;
-    is join(" ", map { $_->station->name } @line_stations),
+    my $line_stations = $best_route->line_stations;
+    is join(" ", map { $_->station->name } @$line_stations),
 	'Alexanderplatz Hackescher Markt Friedrichstr. Hauptbahnhof';
-    like $line_stations[0]->line->name, qr{^S\d+$};
+    like $line_stations->[0]->line->name, qr{^S\d+$};
 }
 
 if (1) { # U-Bahn example
@@ -42,12 +42,13 @@ if (1) { # U-Bahn example
 	is $line_stations->[-1]->line->name, 'U7';
     }
 
+    # may be mixed U/S-Bahn
     {
 	my $routing = $graph->routing_for('Rathaus Spandau', 'Rudow');
 	my($best_route) = $routing->ordered_routes;
 	my $line_stations = $best_route->line_stations;
 	like join(" ", map { $_->station->name } @$line_stations),
-	    qr{^Rathaus Spandau .* Wilmersdorfer Str. .* Kleistpark .* Hermannplatz .* Rudow$};
+	    qr{^Rathaus Spandau .* (?:Wilmersdorfer Str. .* Kleistpark .* Hermannplatz|Halensee .* Tempelhof) .* Rudow$};
     }
 }
 
