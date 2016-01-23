@@ -1,3 +1,10 @@
+# Currenly not activated --- see https://github.com/Csson/p5-Map-Metro/issues/10
+
+branches:
+  except:
+    - /travis/
+skip_tags: true
+
 install:
   - set PROJECTNAME=Map-Metro-Plugin-Map-Berlin
   - cinst strawberryperl
