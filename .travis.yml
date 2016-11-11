@@ -1,5 +1,23 @@
 language: perl
 perl:
+  - "5.22"
   - "5.20"
   - "5.18"
   - "5.16"
+matrix:
+  include:
+    - perl: "5.18"
+      os: osx
+      sudo: true
+    - perl: "5.18"
+      dist: trusty
+
+before_install:
+  - if [ "$TRAVIS_OS_NAME" = "osx" ]; then brew update; brew install cpanminus; fi
+install:
+  - if [ "$TRAVIS_OS_NAME" = "osx" ]; then cpanm --sudo --quiet --installdeps --notest .; else cpanm --quiet --installdeps --notest .; fi
+
+branches:
+ except:
+  - /appveyor/
+sudo: false
