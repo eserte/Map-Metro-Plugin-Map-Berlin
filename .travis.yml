@@ -6,9 +6,10 @@ perl:
   - "5.16"
 matrix:
   include:
-    - perl: "5.18"
-      os: osx
-      sudo: true
+## XXX Disabled, does not work
+#    - perl: "5.18"
+#      os: osx
+#      sudo: true
     - perl: "5.18"
       dist: trusty
 
