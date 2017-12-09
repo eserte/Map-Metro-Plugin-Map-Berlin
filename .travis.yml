@@ -4,14 +4,15 @@ perl:
   - "5.20"
   - "5.18"
   - "5.16"
-matrix:
-  include:
-## XXX Disabled, does not work
+  - "5.26"
+#matrix:
+#  include:
+### XXX Disabled, does not work
+##    - perl: "5.18"
+##      os: osx
+##      sudo: true
 #    - perl: "5.18"
-#      os: osx
-#      sudo: true
-    - perl: "5.18"
-      dist: trusty
+#      dist: trusty
 
 before_install:
   - if [ "$TRAVIS_OS_NAME" = "osx" ]; then brew update; brew install cpanminus; fi
