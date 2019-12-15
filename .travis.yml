@@ -1,23 +1,29 @@
 language: perl
-perl:
-  - "5.22"
-  - "5.20"
-  - "5.18"
-  - "5.16"
-  - "5.26"
-#matrix:
-#  include:
-### XXX Disabled, does not work
-##    - perl: "5.18"
-##      os: osx
-##      sudo: true
-#    - perl: "5.18"
-#      dist: trusty
+matrix:
+  include:
+    - perl: "5.30"
+      dist: xenial
+    - perl: "5.28"
+      dist: xenial
+    - perl: "5.22"
+      dist: xenial
+    - perl: "5.20"
+      dist: trusty
+    - perl: "5.18"
+      dist: trusty
+    - perl: "5.16"
+      dist: trusty
+    - perl: "5.14"
+      dist: trusty
+    - perl: "5.12"
+      dist: trusty
+    - perl: "5.10"
+      dist: trusty
 
 before_install:
   - if [ "$TRAVIS_OS_NAME" = "osx" ]; then brew update; brew install cpanminus; fi
 install:
-  - if [ "$TRAVIS_OS_NAME" = "osx" ]; then cpanm --sudo --quiet --installdeps --notest .; else cpanm --quiet --installdeps --notest .; fi
+  - if [ "$TRAVIS_OS_NAME" = "osx" ]; then cpanm --sudo --quiet --installdeps --notest .; else if ! cpanm --quiet --installdeps --notest .; then cat ~/.cpanm/work/*/build.log; false; fi; fi
 
 branches:
  except:
