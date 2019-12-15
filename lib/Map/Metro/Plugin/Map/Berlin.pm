@@ -11,7 +11,8 @@
 # WWW:  http://www.rezic.de/eserte/
 #
 
-package Map::Metro::Plugin::Map::Berlin {
+{
+    package Map::Metro::Plugin::Map::Berlin;
 
     our $VERSION = '2019.1215';
 
