@@ -28,4 +28,6 @@ install:
 branches:
  except:
   - /appveyor/
+  - /github-actions/
+  - /doozer/
 sudo: false
